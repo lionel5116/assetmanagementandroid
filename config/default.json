@@ -1,0 +1,4 @@
+{
+  "mongoURI_ANDROID": "mongodb://localhost:27017/assetmgmtandroid",
+  "mongoURI" : "mongodb+srv://lionel5116:Mag17615%40@cluster0.jwcnt.mongodb.net/AssetManagement2022?retryWrites=true&w=majority"
+}
